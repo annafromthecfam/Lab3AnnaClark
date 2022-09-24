@@ -1,0 +1,15 @@
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.csproj.AssemblyReference.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.AssemblyInfoInputs.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.AssemblyInfo.cs
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.csproj.CoreCompileInputs.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\bin\Debug\net6.0\Lab3AnnaClark.exe
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\bin\Debug\net6.0\Lab3AnnaClark.deps.json
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\bin\Debug\net6.0\Lab3AnnaClark.runtimeconfig.json
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\bin\Debug\net6.0\Lab3AnnaClark.dll
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\bin\Debug\net6.0\Lab3AnnaClark.pdb
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.dll
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\refint\Lab3AnnaClark.dll
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.pdb
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\Lab3AnnaClark.genruntimeconfig.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab3AnnaClark\obj\Debug\net6.0\ref\Lab3AnnaClark.dll
